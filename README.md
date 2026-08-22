@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YagaraIcon.png" alt="Yagara Fluid Engine Logo" width="128" height="128">
+  <img width="256" height="256" alt="YagaraIcon" src="https://github.com/user-attachments/assets/47c263c4-55f2-40ef-b91d-f1fbbaf6343b" />
 </p>
 
 <h1 align="center">YAGARA FLUID ENGINE</h1>
