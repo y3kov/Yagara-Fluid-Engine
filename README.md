@@ -82,7 +82,7 @@ Built from scratch in pure modern **C++20** and **Vulkan 1.3 Compute**, Yagara d
 - **RAM**: 4 GB+
 
 ### Running Yagara
-1. Download **`Yagara_Release.zip`** from the [Latest Release](https://github.com/) page.
+1. Download **`Yagara_Release.zip`** from the [Latest Release]([https://github.com/](https://github.com/y3kov/Yagara-Fluid-Engine/releases/tag/Relise)) page.
 2. Extract the archive into any folder.
 3. Launch **`YagaraFluidEngine.exe`**.
 
