@@ -25,9 +25,6 @@
 
 Built from scratch in pure modern **C++20** and **Vulkan 1.3 Compute**, Yagara delivers real-time Navier-Stokes fluid dynamics (fire, smoke, explosions, combustion) coupled with millions of GPU particles and direct export pipelines to **Unreal Engine 5 (Niagara)**.
 
-<p align="center">
-  <img src="Yagara_load.png" alt="Yagara Splash Artwork" width="800">
-</p>
 
 ---
 
