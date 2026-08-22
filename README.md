@@ -25,7 +25,9 @@
 
 Built from scratch in pure modern **C++20** and **Vulkan 1.3 Compute**, Yagara delivers real-time Navier-Stokes fluid dynamics (fire, smoke, explosions, combustion) coupled with millions of GPU particles and direct export pipelines to **Unreal Engine 5 (Niagara)**.
 
-
+<p align="center">
+<img width="540" height="541" alt="fireL" src="https://github.com/user-attachments/assets/cd4cae44-f230-4b50-a96d-40eef625a633" />
+</p>
 ---
 
 ## ✨ Key Features
@@ -63,6 +65,9 @@ Built from scratch in pure modern **C++20** and **Vulkan 1.3 Compute**, Yagara d
 - **3D Vector Fields (`.FGA`)**: Export 3D fluid velocity fields ready for UE5 Niagara particle advection.
 - **2D Flipbook Sprite Sheets**: Render animated 8x8 / 16x16 sprite sheets with optional normal maps.
 - **OpenVDB Volume Grids**: Standard format for offline rendering and cinematic workflows.
+
+---
+<img width="3439" height="1389" alt="Снимок экрана 2026-08-22 134857" src="https://github.com/user-attachments/assets/82647936-f482-4495-adca-39e8f28bd23e" />
 
 ---
 
