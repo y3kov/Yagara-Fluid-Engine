@@ -10,12 +10,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.1.2%20(Beta)-orange.svg?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.1.3%20(Beta)-orange.svg?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Windows%20x64-blue.svg?style=for-the-badge&logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/Graphics-Vulkan%201.3-red.svg?style=for-the-badge&logo=vulkan" alt="Vulkan 1.3">
   <img src="https://img.shields.io/badge/C%2B%2B-20-00599C.svg?style=for-the-badge&logo=cplusplus" alt="C++20">
-  <img src="https://img.shields.io/badge/Download%20Size-~4.9%20MB-brightgreen.svg?style=for-the-badge" alt="Size">
+  <img src="https://img.shields.io/badge/Download%20Size-~5.2%20MB-brightgreen.svg?style=for-the-badge" alt="Size">
 </p>
+
+
 
 ---
 
