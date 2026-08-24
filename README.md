@@ -4,6 +4,12 @@
 
 <h1 align="center">YAGARA FLUID ENGINE</h1>
 
+<div align="center">
+
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/y3kov/Yagara-Fluid-Engine/releases/download/v0.1.3(Beta)/Yagara.v0.1.3.beta.zip)
+
+</div>
+
 <p align="center">
   <b>High-Performance Real-Time 3D Fluid & Particle Simulation Engine</b><br>
   Powered by Vulkan 1.3 Compute & Data-Flow Node Graph System
