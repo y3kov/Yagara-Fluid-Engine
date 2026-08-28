@@ -6,9 +6,7 @@
 
 <div align="center">
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/y3kov/Yagara-Fluid-Engine/releases/download/v0.1.3(Beta)/Yagara.v0.1.3.beta.zip)
-
-</div>
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33&logoSize=auto)](https://discord.gg/mPZPjGvNk)
 
 <p align="center">
   <b>High-Performance Real-Time 3D Fluid & Particle Simulation Engine</b><br>
